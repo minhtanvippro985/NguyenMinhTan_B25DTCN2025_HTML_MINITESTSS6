@@ -1,0 +1,95 @@
+#main{
+    text-align: center;
+    background-color: rgb(200, 236, 224);
+    color: rgb(7, 145, 99);
+}
+
+
+#navigator{
+    background-color: rgb(207, 245, 255);
+     text-align: center;
+   
+}
+
+#linker {
+    text-decoration: none;
+    color: rgb(99, 102, 248);
+    font-size: 20px;
+    word-spacing: ;
+}
+#linker:hover{
+    color: aliceblue;
+    background-color: rgb(107, 179, 238);
+}
+
+body{
+    background-color: azure;
+}
+
+#section{
+    background-color: rgb(255, 255, 255);
+}
+
+#div_title{
+    color: rgb(16, 117, 175);
+}
+
+#lister:hover{
+    color: rgb(12, 12, 247);
+    background-color: rgb(175, 187, 241);
+
+}
+
+
+footer{
+    text-align: center;
+    background-color: rgb(147, 189, 122);
+    color: rgb(255, 255, 255);
+}
+
+table{
+    
+   
+    margin-left: auto;
+    margin-right: auto;
+    /* Optional: set a width if it might otherwise be 100% */
+    width: 100%; 
+    border: 1px;
+}
+
+thead{
+    background-color: rgb(177, 255, 255);
+    color: rgb(27, 112, 138);
+}
+
+tr:hover {
+    background-color: rgb(203, 240, 227);
+}
+
+
+#form{
+    text-align: center;
+    background-color: rgb(223, 226, 226);
+}
+
+button{
+    background-color: aquamarine;
+}
+
+input:focus{
+    background-color: rgb(190, 255, 233);
+
+}
+
+select:focus{
+    background-color: rgb(190, 255, 233);
+}
+
+textarea:focus{
+    background-color: rgb(190, 255, 233);
+}
+
+button:hover{
+     background-color: rgba(127, 255, 212 , 0.25);
+
+}
