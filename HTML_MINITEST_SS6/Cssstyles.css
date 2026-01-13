@@ -1,0 +1,68 @@
+#menu{
+    background-color: #fed7aa;
+    text-align: center;
+   
+}
+a{
+    text-decoration: none;
+    color: #78350f;
+    font-family: cursive;
+}
+
+a:hover{
+    background-color: #d88250;
+    color: aliceblue;
+}
+
+#title{
+    text-align: center;
+    background-color: #fde68a ;
+    color: #78350f;
+    font-family: cursive;
+}
+
+
+img{
+    display: flex;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    
+}
+
+body{
+    background-color: #fff7ed;
+}
+
+
+
+
+li:hover{
+    background-color:#78350f ;
+    color: yellow;
+}
+
+
+#section{
+    background-color: rgb(255, 255, 255);
+}
+
+
+#yes{
+    color : #92400e;
+    font-family: cursive;
+}
+
+li{
+    font-family: cursive;
+}
+
+
+footer{
+    background-color: #78350f;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+
+
